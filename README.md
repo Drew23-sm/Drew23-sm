@@ -9,6 +9,7 @@
 💻 Lenguajes:
 - Python
 - C++
+- Java
 - SQL
 
 ⚙️ Herramientas:
