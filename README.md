@@ -1,26 +1,35 @@
-# 👋 Hola, soy Andre
+# Hi, I'm Andre 👋
 
-🎓 Ingeniero Mecatrónico  
-💻 Apasionado por la programación, la tecnología, los sistemas embebidos y el desarrollo de software  
+Embedded & Software Engineer focused on intelligent systems, IoT, and software-driven problem solving.
+
+I enjoy building real-world technology projects involving embedded systems, computer vision, backend development, and hardware-software integration.
 
 ---
 
-## 🛠️ Tecnologías
-💻 Lenguajes:
+## Tech Stack
+
+### Languages
 - Python
-- C++
 - Java
+- C++
+- C
 - SQL
 
-⚙️ Herramientas:
+### Tools & Technologies
 - Git & GitHub
 - MySQL
-
-🔌 Hardware:
 - ESP32
-- PIC18F4550
+- Raspberry Pi
 - Arduino
+---
+
+## Featured Projects
+
+- AI-Powered Waste Detection System
+- Smart Orthosis Prototype with ESP32
+- Robotic Production Line Simulation
+- Task Management System
 
 ---
 
-⭐ Siempre buscando aprender y mejorar
+Currently expanding my backend development and embedded systems skills through personal and collaborative engineering projects.
